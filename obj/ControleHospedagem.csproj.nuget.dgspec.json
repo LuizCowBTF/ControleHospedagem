@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\ControleHospedagem.csproj": {}
+    "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\ControleHospedagem.csproj": {}
   },
   "projects": {
-    "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\ControleHospedagem.csproj": {
+    "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\ControleHospedagem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\ControleHospedagem.csproj",
+        "projectUniqueName": "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\ControleHospedagem.csproj",
         "projectName": "ControleHospedagem",
-        "projectPath": "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\ControleHospedagem.csproj",
+        "projectPath": "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\ControleHospedagem.csproj",
         "packagesPath": "C:\\Users\\luizc\\.nuget\\packages\\",
-        "outputPath": "F:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\obj\\",
+        "outputPath": "f:\\Particular\\CONHECIMENTO\\CURSOS\\_PLATAFORMAS ENSINO\\DIO\\C#\\BOOTCAMP DEV\\Projetos\\ControleHospedagem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

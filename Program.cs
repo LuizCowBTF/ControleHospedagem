@@ -16,7 +16,7 @@ hospedes.Add(p2);
 
 Suite suite = new Suite(tipoSuite: "Premium", capacidade: 2, valorDiaria: 30);
 
-Reserva reserva = new Reserva(diasReservados: 5);
+Reserva reserva = new Reserva(diasReservados: 12);
 reserva.CadastrarSuite(suite);
 reserva.CadastrarHospedes(hospedes);
 
