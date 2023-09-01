@@ -1,0 +1,14 @@
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\bin\Debug\net7.0\ControleHospedagem.exe
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\bin\Debug\net7.0\ControleHospedagem.deps.json
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\bin\Debug\net7.0\ControleHospedagem.runtimeconfig.json
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\bin\Debug\net7.0\ControleHospedagem.dll
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\bin\Debug\net7.0\ControleHospedagem.pdb
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\ControleHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\ControleHospedagem.AssemblyInfoInputs.cache
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\ControleHospedagem.AssemblyInfo.cs
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\ControleHospedagem.csproj.CoreCompileInputs.cache
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\ControleHospedagem.dll
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\refint\ControleHospedagem.dll
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\ControleHospedagem.pdb
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\ControleHospedagem.genruntimeconfig.cache
+F:\Particular\CONHECIMENTO\CURSOS\_PLATAFORMAS ENSINO\DIO\C#\BOOTCAMP DEV\Projetos\ControleHospedagem\obj\Debug\net7.0\ref\ControleHospedagem.dll
